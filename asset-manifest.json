@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/2023-11-7-egzaminas/static/css/main.c4e4cbb4.css",
-    "main.js": "/2023-11-7-egzaminas/static/js/main.b48fe3bb.js",
+    "main.js": "/2023-11-7-egzaminas/static/js/main.951c6e6e.js",
     "static/media/fa-solid-900.ttf": "/2023-11-7-egzaminas/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
     "static/media/fa-brands-400.ttf": "/2023-11-7-egzaminas/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
     "static/media/fa-solid-900.woff2": "/2023-11-7-egzaminas/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
@@ -12,10 +12,10 @@
     "static/media/fa-v4compatibility.woff2": "/2023-11-7-egzaminas/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
     "index.html": "/2023-11-7-egzaminas/index.html",
     "main.c4e4cbb4.css.map": "/2023-11-7-egzaminas/static/css/main.c4e4cbb4.css.map",
-    "main.b48fe3bb.js.map": "/2023-11-7-egzaminas/static/js/main.b48fe3bb.js.map"
+    "main.951c6e6e.js.map": "/2023-11-7-egzaminas/static/js/main.951c6e6e.js.map"
   },
   "entrypoints": [
     "static/css/main.c4e4cbb4.css",
-    "static/js/main.b48fe3bb.js"
+    "static/js/main.951c6e6e.js"
   ]
 }
