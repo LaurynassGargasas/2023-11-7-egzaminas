@@ -6,3 +6,8 @@
 
 
 user credentials: admin admin
+
+
+DEMO :
+
+https://laurynassgargasas.github.io/2023-11-7-egzaminas/
