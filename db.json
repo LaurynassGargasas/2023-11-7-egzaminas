@@ -8,7 +8,7 @@
   },
   "tasks": [
     {
-      "title": "eeee",
+      "title": "egzaminas",
       "id": 1
     }
   ],
@@ -1402,18 +1402,6 @@
       "id": 200,
       "title": "ipsam aperiam voluptates qui",
       "completed": false
-    },
-    {
-      "userId": 1,
-      "title": "ewqe",
-      "completed": false,
-      "id": 201
-    },
-    {
-      "userId": 4,
-      "title": "weqe",
-      "completed": false,
-      "id": 202
     }
   ]
 }

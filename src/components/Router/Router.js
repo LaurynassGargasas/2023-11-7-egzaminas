@@ -12,6 +12,31 @@ import { Todos } from '../Todos/Todos.js';
 import { Login } from '../Login/Login.js';
 import { AuthContext } from '../../context/AuthContext.js';
 
+// export function AppRouter () {
+//   const { isAuthenticated } = useContext(AuthContext);
+
+//   return (
+//     <Router>
+//       <Navbar />
+//       <Routes>
+//         <Route
+//           path='/'
+//           element={isAuthenticated ? <Home /> : <Navigate to='/login' replace />}
+//         />
+//         <Route
+//           path='/users'
+//           element={isAuthenticated ? <Users /> : <Navigate to='/login' replace />}
+//         />
+//         <Route
+//           path='/todos'
+//           element={isAuthenticated ? <Todos /> : <Navigate to='/login' replace />}
+//         />
+//         <Route path='/login' element={<Login />} />
+//       </Routes>
+//     </Router>
+//   );
+// }
+
 export function AppRouter () {
   const { isAuthenticated } = useContext(AuthContext);
 
