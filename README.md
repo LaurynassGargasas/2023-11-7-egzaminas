@@ -7,6 +7,9 @@
 
 user credentials: admin admin
 
+SVARBU: Galimai gali egzistuoti bugas on initial load, gali 
+tekti spausti ant navigacijos kad pradetu rodyti login page...
+Tai del github 
 
 DEMO :
 
